@@ -32,5 +32,5 @@
 
 - ¿Que función cumple  *span* en la regla *grid column y grid row*?
 
-  Tomar desde esa columna y fila hacia las demas que hayan
+  Se usa para definir en que lineas debe comenzar 
 

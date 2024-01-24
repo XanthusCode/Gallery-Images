@@ -38,7 +38,6 @@ body{
     transform: scale(1.04);
 }
 
-
 @media (min-width: 600px){
     .wide{
         grid-column: span 2;
